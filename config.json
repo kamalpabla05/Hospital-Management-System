@@ -1,0 +1,10 @@
+{
+    "params":
+    {
+     
+      "gmail-user": "youremail",
+      "password": "yourpassword"
+     
+      /* "_comment": "google denied less secure apps are not allowed" */
+    }
+}
